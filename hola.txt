@@ -8,7 +8,7 @@ holaaaaaaaaaaaaaaaaaaa
 <<<<<<< HEAD
 yo soy, tu padre
 =======
-desde mi rama
+
 
 yo soy,
 >>>>>>> mirama
