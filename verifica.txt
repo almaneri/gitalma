@@ -11,4 +11,8 @@ ventaneando, elige tu linea
 
 tercera llamada
 
+<<<<<<< HEAD
 manejo de versiones
+=======
+Siguiente ++
+>>>>>>> testeando

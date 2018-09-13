@@ -2,9 +2,15 @@ holaaaaaaaaaaaaaaaaaaa
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 yo soy, tu padre
 =======
 desde mi rama
 
 yo soy,
 >>>>>>> mirama
+=======
+yo soy, 
+
+lasksldajh
+>>>>>>> a1353bc14298e312c46d2154748b8ac6f9be3c41
