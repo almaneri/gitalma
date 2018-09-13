@@ -3,7 +3,11 @@ Verificando seguimiento
 yo alma
 https://github.com/almaneri/gitalma.git
 
+<<<<<<< HEAD
 sigyosi+++++
+=======
+ventaneando, elige tu linea
+>>>>>>> f90ba9e404eea793c7d2be2e9332bcf15f616995
 
 tercera llamada
 
