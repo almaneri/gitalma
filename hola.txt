@@ -2,16 +2,27 @@ holaaaaaaaaaaaaaaaaaaa
 
 
 <<<<<<< HEAD
+ 
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 yo soy, tu padre
 =======
-desde mi rama
+
 
 yo soy,
 >>>>>>> mirama
 =======
+<<<<<<< HEAD
  
+=======
+yo soy, 
+>>>>>>> master
+>>>>>>> testeando
 
+
+
+<<<<<<< HEAD
 lasksldajh
 >>>>>>> a1353bc14298e312c46d2154748b8ac6f9be3c41
 
@@ -21,3 +32,5 @@ holayo escribi
 =======
 aqui esta mi texto
 >>>>>>> mirama
+=======
+>>>>>>> db0a0f066d930fd02b0a4856c24089ff8cc4b771
